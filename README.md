@@ -8,6 +8,11 @@ This repo contains case study ideas and datasets. The directory structure is sel
 
 ## List of cases:
 1. [Retail Sales](./write_ups/retail_sales/retail_sales_writeup.md)
+    - **Learning Outcomes**
+        - Be able to work with data spread across different files and formats
+        - Be able to do manipulations involving dates, strings, groupby+aggregates
+        - Translate business questions into data analysis code
+        - Be able to decide the right format for presenting insights
 
 ## List of datasets and ideas (wip)
 - https://www.kaggle.com/serhanayberkkl/marketing-analysis/data
