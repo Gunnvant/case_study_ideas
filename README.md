@@ -13,6 +13,13 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to do manipulations involving dates, strings, groupby+aggregates
         - Translate business questions into data analysis code
         - Be able to decide the right format for presenting insights
+2. [Data Aquisition](./notebooks/data_aquisition/data_aquisition.ipynb)
+    - To be used in class discussions
+    - **Learning Outcomes**
+        - Understand challenges while working with real world fluid data
+        - Be able to find out hidden biases in the raw data
+        - Suggest ways to distribute consolidated data once processed
+        - Be able to suggest relevant analysis that can and can't be done
 
 ## List of datasets and ideas (wip)
 - https://www.kaggle.com/serhanayberkkl/marketing-analysis/data
