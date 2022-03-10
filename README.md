@@ -13,7 +13,7 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to do manipulations involving dates, strings, groupby+aggregates
         - Translate business questions into data analysis code
         - Be able to decide the right format for presenting insights
-2. [Data Acquisition](./notebooks/data_aquisition/)
+2. [Data Acquisition](./notebooks/data_acquisition/)
     - To be used in class discussions
     - **Learning Outcomes**
         - Understand challenges while working with real world fluid data
