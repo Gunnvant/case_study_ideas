@@ -1,0 +1,19 @@
+Category,Total,Destroyed,Damaged,Abandoned,Captured
+Tanks,46,14,0,10,21
+Armoured Fighting Vehicles,38,8,0,11,17
+Infantry Fighting Vehicles,33,9,0,7,17
+Armoured Personnel Carriers,18,3,0,2,12
+Infantry Mobility Vehicles,17,2,1,1,13
+Engineering Vehicles,1,0,0,0,1
+Anti tank Guided Missiles,32,0,0,0,32
+Man Portable Air Defence Systems,14,0,0,0,14
+Towed Artillery,14,1,0,3,10
+Self Propelled Artillery,7,3,0,1,3
+Multiple Rocket Launchers,2,0,0,0,2
+Anti Aircraft Guns,1,0,0,0,1
+Surface To Air Missile Systems,9,9,0,0,0
+Radars,5,3,2,0,0
+Aircraft,8,8,0,0,0
+Unmanned Aerial Vehicles,3,1,0,0,2
+Naval Ships,2,2,0,0,0
+Trucks Vehicles and Jeeps,70,30,2,6,32
