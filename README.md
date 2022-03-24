@@ -20,6 +20,15 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to find out hidden biases in the raw data
         - Suggest ways to distribute consolidated data once processed
         - Be able to suggest relevant analysis that can and can't be done
+3. [Airbnb Case](./write_ups/airbnb/writeup.md)
+    - To be used as self paced case study
+    - **Learning Outcomes**
+        - Learner should be able to aggregate data spread across different sources to come up with potentially useful proxies for dependent and independent variables
+        - Learner should be able to spot outliers and do common sanity checks
+        - Learner should be able to use appropriate metrics to finalize a model
+        - Learner should be able to design a good strategy to communicate model output to stake-holders
+
+
 
 ## List of datasets and ideas (wip)
 - https://www.kaggle.com/serhanayberkkl/marketing-analysis/data
