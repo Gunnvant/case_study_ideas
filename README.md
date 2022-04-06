@@ -27,6 +27,14 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Learner should be able to spot outliers and do common sanity checks
         - Learner should be able to use appropriate metrics to finalize a model
         - Learner should be able to design a good strategy to communicate model output to stake-holders
+4. [Ticket Classification](./write_ups/ticket_classification/writeup.md)
+    - To be used as self paced case study
+    - **Learning Outcomes**
+    - Learner should be able to handle text with varying encoding
+    - Learner should be able to clean and process data using regex
+    - Learner should be able to extract features using tfidf vectorizer
+    - Build a basic text classification model or use lstm and rnn layers or use bert based pre-trained models
+    - Learner should be able to talk in depth about the domain from which the project is
 
 
 
