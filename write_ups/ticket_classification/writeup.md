@@ -39,7 +39,10 @@ The `complaint_id` key is the alphanumeric id of the type of complaint that a cu
         "Using a debit or ATM card": "bc_2"
 }
 
+
 ```
+
+There is also a file called [`respondent.csv`](../../data/ticket_classification/respondent.csv), which has the mapping of issue_id with respondent id. This can be used to ascertain who should respond given the issue_id
 ### **Tasks**:
 
 1. **Data Understanding**: 
@@ -76,7 +79,7 @@ The `complaint_id` key is the alphanumeric id of the type of complaint that a cu
 │   ├── test_data
 ├── README.MD
 ```
-`predict.py` should contain the logic to load the saved model in models directory and provide predictions on tickets stored in the `test_data` folder.
+`predict.py` should contain the logic to load the saved model in models directory and provide predictions on tickets stored in the `test_data` folder. Your predictions should also include guidance on who should respond to the customer complaint. 
 
 ### **Deliverables**:
 - Finalize your code and push it to Github repository or create well structured collab notebooks or kaggle kernels. Make sure your code is well structured, break it down into modular files or notebooks.
