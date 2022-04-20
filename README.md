@@ -36,6 +36,14 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Build a basic text classification model or use lstm and rnn layers or use bert based pre-trained models
         - Learner should be able to talk in depth about the domain from which the project is
 
+5. [Python Project](./write_ups/python_data_warehousing_essentials/writeup.md)
+    - Problems from this can be used in python sessions as well as intermediate level python case study/practice assignment
+    - **Learning Outcomes**
+        -  Be able to handle flat files, JSON, and XML files
+        -  Be able to convert JSON and XML files to a table
+        -  Be able to manipulate strings and handle dates and time zones
+        -  Be able to modularize code using Classes and modules
+
 
 
 ## List of datasets and ideas (wip)
