@@ -44,7 +44,9 @@ This repo contains case study ideas and datasets. The directory structure is sel
         -  Be able to manipulate strings and handle dates and time zones
         -  Be able to modularize code using Classes and modules
 6. [Customer Churn Prediction](./write_ups/customer_churn/writeup.md)
+
 - **Learning Outcomes**
+       
         - Learner should be able to aggregate data spread across different sources to come up with potentially useful proxies for dependent and independent variables
         - Learner should be able to spot outliers and do common sanity checks
         - Learner should be able to use appropriate metrics to finalize a model
