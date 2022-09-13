@@ -44,6 +44,14 @@ This repo contains case study ideas and datasets. The directory structure is sel
         -  Be able to manipulate strings and handle dates and time zones
         -  Be able to modularize code using Classes and modules
 6. [Customer Churn Prediction](./write_ups/customer_churn/writeup.md)
+7. [Booking Cancellation](./write_ups/booking_cancellation/writeup.md)
+    - To be used as self paced case study
+    - **Learning Objectives**
+        - Be able to work with data that is stored in different formats
+        - Be able to work with data spread across different files
+        - Be able to extract features out of data by taking into account the context of problem
+        - Use SVM classifier and do hyperparameter tuning 
+
 
 - **Learning Outcomes**
        
