@@ -13,6 +13,7 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to do manipulations involving dates, strings, groupby+aggregates
         - Translate business questions into data analysis code
         - Be able to decide the right format for presenting insights
+        
 2. [Data Acquisition](./notebooks/data_acquisition/)
     - To be used in class discussions
     - **Learning Outcomes**
@@ -20,6 +21,7 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to find out hidden biases in the raw data
         - Suggest ways to distribute consolidated data once processed
         - Be able to suggest relevant analysis that can and can't be done
+
 3. [Airbnb Case](./write_ups/airbnb/writeup.md)
     - To be used as self paced case study
     - **Learning Outcomes**
@@ -27,6 +29,7 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Learner should be able to spot outliers and do common sanity checks
         - Learner should be able to use appropriate metrics to finalize a model
         - Learner should be able to design a good strategy to communicate model output to stake-holders
+
 4. [Ticket Classification](./write_ups/ticket_classification/writeup.md)
     - To be used as self paced case study
     - **Learning Outcomes**
@@ -43,7 +46,14 @@ This repo contains case study ideas and datasets. The directory structure is sel
         -  Be able to convert JSON and XML files to a table
         -  Be able to manipulate strings and handle dates and time zones
         -  Be able to modularize code using Classes and modules
+
 6. [Customer Churn Prediction](./write_ups/customer_churn/writeup.md)
+    - **Learning Outcomes**
+        - Learner should be able to aggregate data spread across different sources to come up with potentially useful proxies for dependent and independent variables
+        - Learner should be able to spot outliers and do common sanity checks
+        - Learner should be able to use appropriate metrics to finalize a model
+        - Learner should be able to design a good strategy to communicate model output to stake-holders
+
 7. [Booking Cancellation](./write_ups/booking_cancellation/writeup.md)
     - To be used as self paced case study
     - **Learning Objectives**
@@ -51,16 +61,6 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to work with data spread across different files
         - Be able to extract features out of data by taking into account the context of problem
         - Use SVM classifier and do hyperparameter tuning 
-
-
-- **Learning Outcomes**
-       
-        - Learner should be able to aggregate data spread across different sources to come up with potentially useful proxies for dependent and independent variables
-        - Learner should be able to spot outliers and do common sanity checks
-        - Learner should be able to use appropriate metrics to finalize a model
-        - Learner should be able to design a good strategy to communicate model output to stake-holders
-
-
 
 ## List of datasets and ideas (wip)
 - https://www.kaggle.com/serhanayberkkl/marketing-analysis/data
