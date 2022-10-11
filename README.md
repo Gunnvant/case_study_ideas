@@ -61,7 +61,7 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to work with data spread across different files
         - Be able to extract features out of data by taking into account the context of problem
         - Use SVM classifier and do hyperparameter tuning 
-8. [Weather Detecion](./write_ups/weather_detection/)
+8. [Weather Detecion](./write_ups/weather_detection/writeup.md)
     - To be used as self paced case study
     - **Learning Objectives**
         - Be able to manipulate files and folders to put image data in a format on which training can be done
