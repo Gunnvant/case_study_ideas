@@ -61,6 +61,13 @@ This repo contains case study ideas and datasets. The directory structure is sel
         - Be able to work with data spread across different files
         - Be able to extract features out of data by taking into account the context of problem
         - Use SVM classifier and do hyperparameter tuning 
+8. [Weather Detecion](./write_ups/weather_detection/)
+    - To be used as self paced case study
+    - **Learning Objectives**
+        - Be able to manipulate files and folders to put image data in a format on which training can be done
+        - Be able to train a CNN by deciding appropriate architecture
+        - Be able to perform transfer learning using a relevant pre-trained model
+        - Be able to write an inference code that can do prediction on a pre-trained model
 
 ## List of datasets and ideas (wip)
 - https://www.kaggle.com/serhanayberkkl/marketing-analysis/data
